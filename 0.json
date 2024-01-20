@@ -1,0 +1,27 @@
+{
+    "name":"BT #0",
+    "image":"0.png",
+    "description":"BT is a nft collection on sei",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Exists"
+        },
+        {
+            "trait_type":"Hash",
+            "value":"bc75ed7b6cf961fd7252fa933522cb19"
+        },
+        {
+            "trait_type":"ID",
+            "value":"0"
+        },
+        {
+            "trait_type":"Value",
+            "value":"11"
+        },
+        {
+            "trait_type":"Weight",
+            "value":"0.1"
+        }
+    ]
+}
